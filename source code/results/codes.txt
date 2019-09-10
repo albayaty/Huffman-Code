@@ -1,0 +1,10 @@
+The Huffman code for each letter:
+g: 000
+d: 0010
+c: 0011
+f: 010
+b: 011
+a: 10
+e: 11
+
+Done ...
